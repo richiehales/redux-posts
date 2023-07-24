@@ -5,3 +5,4 @@ https://redux.js.org/tutorials/essentials/part-6-performance-normalization#showi
 # Youtube Walkthrough
 https://m.youtube.com/watch?v=NqzdVN2tyvQ
 
+From Office PC
