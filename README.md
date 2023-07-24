@@ -8,8 +8,9 @@ https://redux.js.org/tutorials/essentials/part-4-using-data
 https://m.youtube.com/watch?v=NqzdVN2tyvQ
 
 # Current Step
+Async Logic = YouTube Video - 1hr 4mins
 
 
 ## Review
-### 1. UserID - Author
-See YouTube Walkthrough - 40mins
+### 1. *****
+See YouTube Walkthrough - 
